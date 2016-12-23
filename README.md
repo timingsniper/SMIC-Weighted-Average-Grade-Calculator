@@ -12,7 +12,7 @@ December 23rd, 2016: Initial Release (1.0).
 # Download
 Link: https://github.com/timingsniper/SMIC-Weighted-Average-Grade-Calculator/blob/master/WeightedGAPP.app.zip
 Click on "Download"
-For installation, move the GPACalculator.app file to "Applications" folder.
+For installation, move the WeightedGAPP.app file to "Applications" folder.
 
 If you are stuck with error saying "unidentified developer", follow the following guide: 
 
@@ -24,7 +24,7 @@ If you are stuck with error saying "unidentified developer", follow the followin
 
 4. Confirm, and try installing the app again.
 
-Feel free to email/wechat me if there are problems regarding installation. (Contact information provided below)
+Feel free to email/wechat me if there are problems regarding installation. Take a look at "troubleshooting" section of the website as well. (Contact information provided below)
 
 # Current Issues
 Ver 1.0: None yet.
