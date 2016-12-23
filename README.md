@@ -10,7 +10,7 @@ Website: http://smicstudenttools.weebly.com
 December 23rd, 2016: Initial Release (1.0).
 
 # Download
-Link: https://github.com/timingsniper/SMIC-GPA-Calculator/blob/master/GPACalculator.app.zip
+Link: https://github.com/timingsniper/SMIC-Weighted-Average-Grade-Calculator/blob/master/WeightedGAPP.app.zip
 Click on "Download"
 For installation, move the GPACalculator.app file to "Applications" folder.
 
@@ -32,8 +32,7 @@ Ver 1.0: None yet.
 # Q&As
 Q: How do you use this?
 
-A: Enter your category name (optional), enter your category weight (must sum up to 100%) and grade for each category and press   
-   calculate button.
+A: Enter your category name (optional), enter your category weight (must sum up to 100%) and grade for each category and press calculate button.
 
 Q: Where's my windows version? May the curse of Bill Gates on you.
 
