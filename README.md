@@ -1,5 +1,5 @@
-# SMIC GPACalculator
-Mac GPA Calculator Application for SMIC Students
+# SMIC Weighted Average Grade Calculator
+Mac Weighted Average Grade Calculator for SMIC Students
 
 Made by Percy Joonwoo Jang & SMIC Computer Club.
 macOS 10.10+ required.
