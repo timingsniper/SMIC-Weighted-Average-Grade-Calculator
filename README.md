@@ -1,8 +1,9 @@
 # SMIC Weighted Average Grade Calculator
 Mac Weighted Average Grade Calculator for SMIC Students
 
-Made by Percy Joonwoo Jang & SMIC Computer Club.
-macOS 10.10+ required.
+Made by Percy Joonwoo Jang (Mac version), Thomas Jaeuk Choi (Windows Version) & SMIC Computer Club.
+Mac version: macOS 10.10+ required.
+Windows version: Java needs to be installed.
 
 Website: http://smicstudenttools.weebly.com
 
@@ -10,11 +11,13 @@ Website: http://smicstudenttools.weebly.com
 December 23rd, 2016: Initial Release (1.0).
 
 # Download
-Link: https://github.com/timingsniper/SMIC-Weighted-Average-Grade-Calculator/blob/master/WeightedGAPP.app.zip
+Mac Link: https://github.com/timingsniper/SMIC-Weighted-Average-Grade-Calculator/blob/master/WeightedGAPP.app.zip
+Windows Link: https://github.com/timingsniper/SMIC-Weighted-Average-Grade-Calculator/blob/master/WGAPP%20Windows.exe
 Click on "Download"
-For installation, move the WeightedGAPP.app file to "Applications" folder.
+Mac: For installation, move the WeightedGAPP.app file to "Applications" folder.
+Windows: Save the exe file somewhere you know and launch it whenever necessary.
 
-If you are stuck with error saying "unidentified developer", follow the following guide: 
+Mac: If you are stuck with error saying "unidentified developer", follow the following guide: 
 
 1. Open your Mac settings, go to Security & Privacy (House-shaped icon, Korean: 보안 및 개인정보 보호, Chinese: 安全与隐私)
 
@@ -34,16 +37,14 @@ Q: How do you use this?
 
 A: Enter your category name (optional), enter your category weight (must sum up to 100%) and grade for each category and press calculate button.
 
-Q: Where's my windows version? May the curse of Bill Gates on you.
-
-A: I'm sorry... this was written in Swift, Apple's programming language so only mac version for now...
-
 Q: Are you planning on releasing this for other platforms as well?
 
-A: Most likely iPhone, and also maybe windows. (With Java) Stay tuned.
+A: Most likely iPhone. Stay tuned.
 
 # Contact
-Email: smicjangpercy@hotmail.com
-Wechat: jjw8386
+Email: smicjangpercy@hotmail.com (Percy, Mac version inquiry)
+choithomas99@yahoo.com (Thomas, Windows version inquiry)
+
+Wechat: jjw8386 (Percy), riceghost99 (Thomas)
 
 Please take a look at the website:)
