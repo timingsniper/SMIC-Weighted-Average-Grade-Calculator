@@ -2,7 +2,9 @@
 Mac Weighted Average Grade Calculator for SMIC Students
 
 Made by Percy Joonwoo Jang (Mac version), Thomas Jaeuk Choi (Windows Version) & SMIC Computer Club.
+
 Mac version: macOS 10.10+ required.
+
 Windows version: Java needs to be installed.
 
 Website: http://smicstudenttools.weebly.com
@@ -12,8 +14,11 @@ December 23rd, 2016: Initial Release (1.0).
 
 # Download
 Mac Link: https://github.com/timingsniper/SMIC-Weighted-Average-Grade-Calculator/blob/master/WeightedGAPP.app.zip
+
 Windows Link: https://github.com/timingsniper/SMIC-Weighted-Average-Grade-Calculator/blob/master/WGAPP%20Windows.exe
+
 Click on "Download"
+
 Mac: For installation, move the WeightedGAPP.app file to "Applications" folder.
 Windows: Save the exe file somewhere you know and launch it whenever necessary.
 
