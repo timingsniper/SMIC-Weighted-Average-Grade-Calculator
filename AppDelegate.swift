@@ -12,11 +12,7 @@ import Cocoa
 class AppDelegate: NSObject, NSApplicationDelegate {
 
     @IBOutlet weak var window: NSWindow!
-   /* @IBOutlet weak var categoryOne: NSTextField!
-    @IBOutlet weak var categoryTwo: NSTextField!
-    @IBOutlet weak var categoryThree: NSTextField!
-    @IBOutlet weak var categoryFour: NSTextField!
-    @IBOutlet weak var categoryFive: NSTextField!*/
+  
     
     @IBOutlet weak var weightOne: NSTextField!
     @IBOutlet weak var weightTwo: NSTextField!
